@@ -1,0 +1,21 @@
+
+.Input {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.Input-field {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Error-field {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Meals-container {
+  display: flex;
+  flex-direction: column;
+}
